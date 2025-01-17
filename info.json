@@ -1,0 +1,9 @@
+{
+  "name": "finite-liquids",
+  "version": "0.1",
+  "title": "Finite Liquids",
+  "author": "overfishu",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "This mod makes liquids sources finite."
+}
